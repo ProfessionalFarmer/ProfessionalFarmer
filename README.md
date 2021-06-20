@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Thanks for visiting my github
+
 <!--
 **ProfessionalFarmer/ProfessionalFarmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Zhongxu's github stats](https://github-readme-stats.vercel.app/api?username=ProfessionalFarmer&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalFarmer&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
+
+
